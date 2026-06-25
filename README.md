@@ -44,7 +44,7 @@ Sensor data is streamed via **MQTT protocol** to a **Blynk IoT cloud dashboard**
 ### Method 1: Wokwi Direct Link (Easiest)
 
 **👉 Click here to open simulation:**
-> `https://wokwi.com/projects/new/esp32`
+ https://wokwi.com/projects/467827779313072129
 
 Then follow steps below ↓
 
@@ -234,23 +234,3 @@ project3-iot-security-node/
 ├── LICENSE                  # MIT License
 └── README.md                # This file
 ```
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE)
-
----
-
-## 👤 Author
-
-**Your Name**
-🔗 [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
-<p align="center">
-  Made with ❤️ using ESP32 + Wokwi + Blynk IoT<br/>
-  <i>No hardware? No problem! 🚀</i>
-</p>
